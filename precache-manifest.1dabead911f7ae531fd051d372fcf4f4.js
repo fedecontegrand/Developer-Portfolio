@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "994d517ff40e98fd7dccde18b3c2ce8f",
+    "revision": "f1d2ec8b38cecd2c7c8a4775754e16fe",
     "url": "/fedesportfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fedesportfolio/static/css/4.c8ac464a.chunk.css"
   },
   {
-    "revision": "74f1618f6a48fd89e566",
+    "revision": "fb2718df1b23381c1f47",
     "url": "/fedesportfolio/static/css/main.4939fb51.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fedesportfolio/static/js/4.0420f73e.chunk.js"
   },
   {
-    "revision": "74f1618f6a48fd89e566",
-    "url": "/fedesportfolio/static/js/main.564a3afa.chunk.js"
+    "revision": "fb2718df1b23381c1f47",
+    "url": "/fedesportfolio/static/js/main.f645d3dd.chunk.js"
   },
   {
     "revision": "dd4979aa14e3e714963f",
