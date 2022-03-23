@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/fedesportfolio/static/css/main.4939fb51.chunk.css",
-    "main.js": "/fedesportfolio/static/js/main.f645d3dd.chunk.js",
-    "main.js.map": "/fedesportfolio/static/js/main.f645d3dd.chunk.js.map",
-    "runtime-main.js": "/fedesportfolio/static/js/runtime-main.0f5acb8f.js",
-    "runtime-main.js.map": "/fedesportfolio/static/js/runtime-main.0f5acb8f.js.map",
+    "main.js": "/fedesportfolio/static/js/main.0faa55d7.chunk.js",
+    "main.js.map": "/fedesportfolio/static/js/main.0faa55d7.chunk.js.map",
+    "runtime-main.js": "/fedesportfolio/static/js/runtime-main.84e4b47f.js",
+    "runtime-main.js.map": "/fedesportfolio/static/js/runtime-main.84e4b47f.js.map",
     "static/js/2.bfdec0fc.chunk.js": "/fedesportfolio/static/js/2.bfdec0fc.chunk.js",
     "static/js/2.bfdec0fc.chunk.js.map": "/fedesportfolio/static/js/2.bfdec0fc.chunk.js.map",
     "static/css/3.ce554f52.chunk.css": "/fedesportfolio/static/css/3.ce554f52.chunk.css",
-    "static/js/3.20edb43c.chunk.js": "/fedesportfolio/static/js/3.20edb43c.chunk.js",
-    "static/js/3.20edb43c.chunk.js.map": "/fedesportfolio/static/js/3.20edb43c.chunk.js.map",
+    "static/js/3.cbff4a56.chunk.js": "/fedesportfolio/static/js/3.cbff4a56.chunk.js",
+    "static/js/3.cbff4a56.chunk.js.map": "/fedesportfolio/static/js/3.cbff4a56.chunk.js.map",
     "static/css/4.c8ac464a.chunk.css": "/fedesportfolio/static/css/4.c8ac464a.chunk.css",
-    "static/js/4.0420f73e.chunk.js": "/fedesportfolio/static/js/4.0420f73e.chunk.js",
-    "static/js/4.0420f73e.chunk.js.map": "/fedesportfolio/static/js/4.0420f73e.chunk.js.map",
+    "static/js/4.9005684f.chunk.js": "/fedesportfolio/static/js/4.9005684f.chunk.js",
+    "static/js/4.9005684f.chunk.js.map": "/fedesportfolio/static/js/4.9005684f.chunk.js.map",
     "index.html": "/fedesportfolio/index.html",
-    "precache-manifest.502fbaae663c8cf8dd513c2cb6cfef8c.js": "/fedesportfolio/precache-manifest.502fbaae663c8cf8dd513c2cb6cfef8c.js",
+    "precache-manifest.cf27f83434dc6aaa1ab1404672742687.js": "/fedesportfolio/precache-manifest.cf27f83434dc6aaa1ab1404672742687.js",
     "service-worker.js": "/fedesportfolio/service-worker.js",
     "static/css/3.ce554f52.chunk.css.map": "/fedesportfolio/static/css/3.ce554f52.chunk.css.map",
     "static/css/4.c8ac464a.chunk.css.map": "/fedesportfolio/static/css/4.c8ac464a.chunk.css.map",
@@ -38,9 +38,9 @@
     "static/media/zero-to-mastery.png": "/fedesportfolio/static/media/zero-to-mastery.d0a70af7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f5acb8f.js",
+    "static/js/runtime-main.84e4b47f.js",
     "static/js/2.bfdec0fc.chunk.js",
     "static/css/main.4939fb51.chunk.css",
-    "static/js/main.f645d3dd.chunk.js"
+    "static/js/main.0faa55d7.chunk.js"
   ]
 }

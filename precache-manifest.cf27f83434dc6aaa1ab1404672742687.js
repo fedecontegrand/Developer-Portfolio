@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dff7577209c48e9e12cbb9d599e7861",
+    "revision": "429b5c68ca5ca6e415cf5f19678ae4b2",
     "url": "/fedesportfolio/index.html"
   },
   {
-    "revision": "cc91f4ea894dfcd8a626",
+    "revision": "cdc95cab3174cc3403d6",
     "url": "/fedesportfolio/static/css/3.ce554f52.chunk.css"
   },
   {
-    "revision": "08d742924f52da30f40c",
+    "revision": "b3d6dcd3d4b5d9922490",
     "url": "/fedesportfolio/static/css/4.c8ac464a.chunk.css"
   },
   {
-    "revision": "fb2718df1b23381c1f47",
+    "revision": "801b97935d4d86b34e67",
     "url": "/fedesportfolio/static/css/main.4939fb51.chunk.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fedesportfolio/static/js/2.bfdec0fc.chunk.js"
   },
   {
-    "revision": "cc91f4ea894dfcd8a626",
-    "url": "/fedesportfolio/static/js/3.20edb43c.chunk.js"
+    "revision": "cdc95cab3174cc3403d6",
+    "url": "/fedesportfolio/static/js/3.cbff4a56.chunk.js"
   },
   {
-    "revision": "08d742924f52da30f40c",
-    "url": "/fedesportfolio/static/js/4.0420f73e.chunk.js"
+    "revision": "b3d6dcd3d4b5d9922490",
+    "url": "/fedesportfolio/static/js/4.9005684f.chunk.js"
   },
   {
-    "revision": "fb2718df1b23381c1f47",
-    "url": "/fedesportfolio/static/js/main.f645d3dd.chunk.js"
+    "revision": "801b97935d4d86b34e67",
+    "url": "/fedesportfolio/static/js/main.0faa55d7.chunk.js"
   },
   {
-    "revision": "dd4979aa14e3e714963f",
-    "url": "/fedesportfolio/static/js/runtime-main.0f5acb8f.js"
+    "revision": "3b737699e43be29e29d4",
+    "url": "/fedesportfolio/static/js/runtime-main.84e4b47f.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
